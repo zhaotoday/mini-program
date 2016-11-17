@@ -10,4 +10,5 @@ http://www.wxapp-union.com/
 https://github.com/weui/weui-wxss
 
 ## 文章
-https://blog.wilddog.com/?p=1926
+https://blog.wilddog.com/?p=1926  
+http://www.wxapp-union.com/portal.php?mod=view&aid=417
