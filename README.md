@@ -7,8 +7,12 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 [微信小程序联盟](http://www.wxapp-union.com/)
 
 ## 框架
-[weui-wxss](https://github.com/weui/weui-wxss)  
-[Labrador](https://github.com/maichong/labrador)  
+[weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)  
+[Labrador - 微信小程序模块化开发框架](https://github.com/maichong/labrador)  
+
+## 工具
+[Egret Wing - 支持微信小程序实时预览的IDE](http://developer.egret.com/cn/github/egret-docs/Wing/update/update323/index.html)  
+[wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
 
 ## 文章
 [野狗 SDK (微信小程序版) 正式发布](https://blog.wilddog.com/?p=1926)  
