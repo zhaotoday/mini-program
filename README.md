@@ -21,3 +21,11 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 
 ## GitHub
 [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+
+## 视频教程
+[免费视频教程 - WXOPEN.Club 出品微信小程序开发视频教程（持续更新中...）](http://wxopen.club/topic/582d4999745f85100cd13a65)
+[全网首个微信小程序开发视频教程](http://www.howzhi.com/course/15035/)
+[微信小程序开发实战第一季(CSDN)](http://edu.csdn.net/course/detail/3011)
+[微信小程序开发实战第二季(CSDN)](http://edu.csdn.net/course/detail/3045)
+[极客学院微信小程序开发](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
+[微信小程序新手入门(51CTO)](http://edu.51cto.com/course/course_id-7242.html)
