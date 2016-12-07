@@ -14,6 +14,7 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 - [Egret Wing - 支持微信小程序实时预览的IDE](http://developer.egret.com/cn/github/egret-docs/Wing/update/update323/index.html)  
 - [wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
 - [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
+- [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
 
 ## 文章
 - [野狗 SDK (微信小程序版) 正式发布](https://blog.wilddog.com/?p=1926)  
