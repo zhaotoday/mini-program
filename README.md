@@ -24,6 +24,7 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 - [野狗 SDK (微信小程序版) 正式发布](https://blog.wilddog.com/?p=1926)  
 - [微信小程序：开发之前要知道的三件事](http://www.wxapp-union.com/portal.php?mod=view&aid=417)  
 - [产品和运营自学小程序最好用的4个方法](http://www.wxapp-union.com/portal.php?mod=view&aid=414)  
+- [微信小程序新手跳坑指南21条](http://www.wxapp-union.com/portal.php?mod=view&aid=663)  
 
 ## GitHub
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
