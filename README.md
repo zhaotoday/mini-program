@@ -20,6 +20,9 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 - [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
 - [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
 
+## 观点
+- 整体看来，中小型企业、020服务类、线下门店、个人创业者等，均可背靠微信这颗大树在未来发家致富！[链接](http://www.wxapp-union.com/portal.php?mod=view&aid=659)  
+
 ## 文章
 - [野狗 SDK (微信小程序版) 正式发布](https://blog.wilddog.com/?p=1926)  
 - [微信小程序：开发之前要知道的三件事](http://www.wxapp-union.com/portal.php?mod=view&aid=417)  
