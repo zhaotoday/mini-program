@@ -7,7 +7,7 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 - [微信小程序联盟](http://www.wxapp-union.com/)
 
 ## 后端 API 服务
-- [php-core（闭源，由雷陈春开发）](https://git.oschina.net/leicc/php-core)  
+- [php-core（闭源，由雷陈*开发）](https://git.oschina.net/leicc/php-core)  
 - [ci-cms（闭源，由赵金添开发）](https://git.oschina.net/zhaojintian/cms)
 
 ## 框架
