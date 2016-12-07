@@ -29,6 +29,7 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 - [产品和运营自学小程序最好用的4个方法](http://www.wxapp-union.com/portal.php?mod=view&aid=414)  
 - [微信小程序新手跳坑指南21条](http://www.wxapp-union.com/portal.php?mod=view&aid=663)  
 - [微信小程序应用前景剖析](http://www.wxapp-union.com/portal.php?mod=view&aid=629)  
+- [极欧杨勇：你的产品到底适不适合微信小程序？](http://www.wxapp-union.com/portal.php?mod=view&aid=609)  
 
 ## GitHub
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
