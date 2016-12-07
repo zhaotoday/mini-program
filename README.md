@@ -6,6 +6,10 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 ## 推荐网站
 - [微信小程序联盟](http://www.wxapp-union.com/)
 
+## 后端 API 服务
+- [php-core（闭源，由雷陈春开发）](https://git.oschina.net/leicc/php-core)  
+- [ci-cms（闭源，由赵金添开发）](https://git.oschina.net/zhaojintian/cms)
+
 ## 框架
 - [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)  
 - [Labrador - 微信小程序模块化开发框架](https://github.com/maichong/labrador)  
