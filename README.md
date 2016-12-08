@@ -14,6 +14,7 @@ https://mp.weixin.qq.com/debug/wxadoc/product/index.html
 - [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)  
 - [Labrador - 微信小程序模块化开发框架](https://github.com/maichong/labrador)  
 - [wepy](https://github.com/wepyjs/wepy)  
+- [Wafer - 企业级微信小程序全栈方案](https://github.com/tencentyun/wafer)  
 
 ## 工具
 - [Egret Wing - 支持微信小程序实时预览的IDE](http://developer.egret.com/cn/github/egret-docs/Wing/update/update323/index.html)  
