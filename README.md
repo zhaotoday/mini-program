@@ -3,7 +3,8 @@
 - [微信小程序简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
 
 ## 推荐网站
-- [微信小程序联盟](http://www.wxapp-union.com/)
+- [微信小程序联盟](http://www.wxapp-union.com/)  
+- [微信小程序社区](http://www.cwechat.org/)  
 
 ## 英文名称（猜测）
 - weapp：目测是 wechat app 的简写
