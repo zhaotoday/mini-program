@@ -24,6 +24,7 @@
 - [wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
 - [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
 - [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
+- [腾讯云 - 小程序配置指引、升级方案](https://github.com/tencentyun/weapp-doc)  
 
 ## 观点
 - 整体看来，中小型企业、020服务类、线下门店、个人创业者等，均可背靠微信这颗大树在未来发家致富！[链接](http://www.wxapp-union.com/portal.php?mod=view&aid=659)  
