@@ -1,20 +1,15 @@
-## 英文名称（目前只是猜测）
-- weapp：目测是 wechat app 的简写
-- wechat app
-- wxapp：目测是 weixin app 的简写
-- mina：目测是 mini app 的简写
-
 ## 官网入口
-https://mp.weixin.qq.com/  
-https://mp.weixin.qq.com/debug/wxadoc/dev/index.html  
-https://mp.weixin.qq.com/debug/wxadoc/product/index.html
+- [微信公众平台](https://mp.weixin.qq.com/)  
+- [微信小程序简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
 
 ## 推荐网站
 - [微信小程序联盟](http://www.wxapp-union.com/)
 
-## 后端 API 服务
-- [php-core（闭源，由雷陈*开发）](https://git.oschina.net/leicc/php-core)  
-- [ci-cms（闭源，由赵金添开发）](https://git.oschina.net/zhaojintian/cms)
+## 英文名称（猜测）
+- weapp：目测是 wechat app 的简写
+- wechat app
+- wxapp：目测是 weixin app 的简写
+- mina：目测是 mini app 的简写
 
 ## 框架
 - [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)  
