@@ -1,6 +1,7 @@
 ## 官网入口
 - [微信公众平台](https://mp.weixin.qq.com/)  
 - [微信小程序简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
+- [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
 
 ## 推荐网站
 - [微信小程序联盟](http://www.wxapp-union.com/)  
