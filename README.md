@@ -1,3 +1,17 @@
+## 英文名称
+目前对小程序英文名称只是猜测，有如下几个：
+
+### weapp
+目测是 wechat app 的简写
+
+### wechat app
+
+### wxapp
+目测是 weixin app 的简写
+
+### mina
+目测是 mini app 的简写
+
 ## 官网入口
 https://mp.weixin.qq.com/  
 https://mp.weixin.qq.com/debug/wxadoc/dev/index.html  
