@@ -7,7 +7,7 @@
 
 ## 英文名称（猜测）
 - weapp：目测是 wechat app 的简写
-- wechat app
+- wechat app：微信应用的英文
 - wxapp：目测是 weixin app 的简写
 - mina：目测是 mini app 的简写
 
