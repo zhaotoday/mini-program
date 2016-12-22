@@ -30,6 +30,7 @@
 - 整体看来，中小型企业、020服务类、线下门店、个人创业者等，均可背靠微信这颗大树在未来发家致富！[链接](http://www.wxapp-union.com/portal.php?mod=view&aid=659)  
 
 ## 文章
+- [微信小程序常见问题集合](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=23)
 - [野狗 SDK (微信小程序版) 正式发布](https://blog.wilddog.com/?p=1926)  
 - [微信小程序：开发之前要知道的三件事](http://www.wxapp-union.com/portal.php?mod=view&aid=417)  
 - [产品和运营自学小程序最好用的4个方法](http://www.wxapp-union.com/portal.php?mod=view&aid=414)  
