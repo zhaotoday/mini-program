@@ -34,6 +34,7 @@
 - [腾讯云 - 小程序配置指引、升级方案](https://github.com/tencentyun/weapp-doc)  
 
 ## 观点
+- 跟小程序比较般配的包括电商类、生活服务类、工具类、O2O、自媒体和企业级应用。[链接](http://www.cwechat.org/article-24-1.html)
 - 整体看来，中小型企业、020服务类、线下门店、个人创业者等，均可背靠微信这颗大树在未来发家致富！[链接](http://www.wxapp-union.com/portal.php?mod=view&aid=659)  
 
 ## 文章
