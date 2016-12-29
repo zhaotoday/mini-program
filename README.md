@@ -46,6 +46,7 @@
 - [极欧杨勇：你的产品到底适不适合微信小程序？](http://www.wxapp-union.com/portal.php?mod=view&aid=609)  
 
 ## GitHub
+- [微信小程序入坑指南](https://github.com/wxdev/app-guide)
 - [微信小程序开发技巧](https://github.com/Romeo0906/WeChatAPP/blob/master/Something-that-wxadoc-don't-tell-you.md)
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 
