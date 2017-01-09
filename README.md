@@ -11,7 +11,8 @@
 - [微信小程序联盟](http://www.wxapp-union.com/)  
 - [微信小程序社区](http://www.cwechat.org/)  
 
-## 英文名称（猜测）
+## 英文名称
+- mini program：官方正式名称
 - weapp：目测是 wechat app 的简写
 - wechat app：微信应用的英文
 - wxapp：目测是 weixin app 的简写
