@@ -12,7 +12,7 @@
 - [微信小程序社区](http://www.cwechat.org/)  
 
 ## 英文名称
-因为应用、app 之类的词被苹果公司和谐，所以微信正式英文名称为：mini program，以下包含开发者常用的微信英文名称。
+应用、app 之类的词被苹果公司和谐，微信小程序正式英文名称为：mini program，以下包含开发者常用的微信英文名称。
 - mini program：官方正式名称
 - weapp：目测是 wechat app 的简写
 - wechat app：微信应用的英文
