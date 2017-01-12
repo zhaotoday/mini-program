@@ -43,7 +43,8 @@
 
 ## 观点
 - 跟小程序比较般配的包括电商类、生活服务类、工具类、O2O、自媒体和企业级应用。[链接](http://www.cwechat.org/article-24-1.html)
-- 整体看来，中小型企业、020服务类、线下门店、个人创业者等，均可背靠微信这颗大树在未来发家致富！[链接](http://www.wxapp-union.com/portal.php?mod=view&aid=659)  
+- 整体看来，中小型企业、020服务类、线下门店、个人创业者等，均可背靠微信这颗大树在未来发家致富！[链接](http://www.wxapp-union.com/portal.php?mod=view&aid=659)
+- 张小龙对小程序的定位明显是一个「工具型」的产品，如何建立最短路径然后帮助用户直达产品功能就是一个「好的工具」。从在这一点上来看，目前已经上架的「滴滴出行」小程序就是一个最好的范例，打开小程序就能直接获取用户当前位置作为起点，然后用户输入终点之后就能开始呼叫用车，一气呵成。 [链接](https://gold.xitu.io/post/5875df0561ff4b005c5c1db5?utm_source=gold_browser_extension)
 
 ## 文章
 - [2016微信数据报告发布](http://mp.weixin.qq.com/s/7FnrGvlN__iww57e91d0Ig)
