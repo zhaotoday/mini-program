@@ -22,6 +22,12 @@
 ## 最新消息
 - [2016-12-29 更新] 微信小程序将于 2017-1-9 正式上线 [链接](https://mp.weixin.qq.com/s?__biz=MjM5NTE4Njc4NQ==&mid=2657611912&idx=1&sn=f91c228764f9a3b4ed696276fae1ee1b&chksm=bd6f01868a188890c72c32e3082f2bc36d7f79efab345a9a58595a4a19c9fa39f522e9981b2d&mpshare=1&scene=1&srcid=1228p6Hph7jd2lUOkbCGL7x6&key=564c3e9811aee0ab29c2072d6a92477a8d62ef0e5fe510df5d0ad41c92368cae49761c048dff4fe55f719d3c57afc1710797e0a290516f8f860e49c4ee3a25d3300f54e11fb682ebd3fa99faaedbc661&ascene=0&uin=MTk0MTE1NDU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=%2F7fUB762zG7R6Di%2FQtIMesFlLkcdP9nx1gv2wrmlrq0%3D)
 
+## 实际例子
+- 用户到达线下某个餐馆就餐时，不需要下载这个餐馆的 APP，只需要在餐馆扫一下它的二维码，然后就可以在这个餐馆的小程序里排队或者点餐；
+- 在公交车站，你扫一下公交站牌的二维码就可以了解下一辆公交车到站的时间；
+- 在汽车站，扫一下汽车站的二维码就可以购买车票，而不需要排长队。
+
+
 ## 框架
 - [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)  
 - [Labrador - 微信小程序模块化开发框架](https://github.com/maichong/labrador)  
