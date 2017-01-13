@@ -24,6 +24,15 @@
 - wxapp：目测是 weixin app 的简写
 - mina：目测是 mini app 的简写
 
+## 小程序导航网站
+- [小程序商店](http://9.cn/)
+- [小程序商店](http://www.91ud.com/)
+- [小程序窝](http://www.xcxwo.com/)
+- [微信小程序导航](http://www.w3cschool.cn/miniapp)
+- [小程序应用商店](http://www.51westore.com/)
+- [知晓程序](https://minapp.com/miniapp/)
+- [微信小程序大全](http://www.duba.com/wxapp/)
+
 ## 如何打开小程序
 - 微信小程序无法分享到朋友圈，甚至无法通过长按二维码进入，也就是说，即使你在一个网页或一篇订阅号的文章里放上小程序的二维码，用户还是无法长按打开小程序。  
 - 用户只能通过：线下扫码、搜索、朋友分享来打开小程序。  
