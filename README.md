@@ -87,6 +87,7 @@
 - [微信小程序入坑指南](https://github.com/wxdev/app-guide)
 - [微信小程序开发技巧](https://github.com/Romeo0906/WeChatAPP/blob/master/Something-that-wxadoc-don't-tell-you.md)
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- [微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
 
 ## 视频教程
 - [WXOPEN.Club 出品微信小程序开发视频教程（持续更新中...）](http://wxopen.club/topic/582d4999745f85100cd13a65)  
