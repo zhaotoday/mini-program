@@ -34,6 +34,8 @@
 - [微信小程序大全](http://www.duba.com/wxapp/)
 - [小程序商店](http://www.xcx.la/)
 - [最小程序](http://zuixiaochengxu.com/)
+- [小程序商店](http://www.xcxsdw.com/)
+- [91 小程序应用商店](http://www.saas-store.cn/wechat/)
 
 ## 如何打开小程序
 - 微信小程序无法分享到朋友圈，甚至无法通过长按二维码进入，也就是说，即使你在一个网页或一篇订阅号的文章里放上小程序的二维码，用户还是无法长按打开小程序。  
