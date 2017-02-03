@@ -15,6 +15,7 @@
 ## 推荐网站
 - [微信小程序联盟](http://www.wxapp-union.com/)  
 - [微信小程序社区](http://www.cwechat.org/)  
+- [微信小程序开发资源精选网址导航](http://www.yimijili.com/xcxwzdh.html)
 
 ## 英文名称
 应用、app 之类的词被苹果公司和谐，小程序正式英文名称为：mini program，以下包含开发者常用的小程序英文名称。
