@@ -76,6 +76,7 @@
 - 从外部看到的信息来看，微信似乎更偏向于连接线下。[链接](https://kenengba.com/post/3538.html)
 
 ## 文章
+- [提交小程序时需要注意什么？这三点你都必须知道](http://9.cn/news/290)
 - [你好，我是小程序！官方公开课解说小程序开放](http://www.wxapp-union.com/article-1039-1.html)
 - [2016微信数据报告发布](http://mp.weixin.qq.com/s/7FnrGvlN__iww57e91d0Ig)
 - [微信小程序常见问题集合](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=23)
