@@ -1,6 +1,10 @@
-## 小程序是什么
-- 定义：小程序是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验。[链接](https://developers.weixin.qq.com/ebook?action=get_post_info&token=935589521&volumn=1&lang=zh_CN&book=miniprogram&docid=0008aeea9a8978ab0086a685851c0a)
-- 特性：无需安装、触手可及、用完即走、无需卸载。[链接](https://gold.xitu.io/post/5863856e61ff4b006cf6cdeb)
+项目名：微信小程序资料收集，Git 仓库地址：https://github.com/zhaotoday/mini-program 。
+
+## 1. 介绍
+
+### 1.1 小程序是什么
+- 定义：小程序是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
+- 特性：无需安装、触手可及、用完即走、无需卸载。
 
 ## 有趣的比喻
 - App 就像原配，一年用不了几次；
