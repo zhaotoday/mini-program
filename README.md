@@ -59,32 +59,12 @@
 - [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)
 - [Wafer - 企业级微信小程序全栈方案](https://github.com/tencentyun/wafer)  
 
-## 3.2 工具
+### 3.2. 工具
 
-- [Egret Wing - 支持微信小程序实时预览的IDE](http://developer.egret.com/cn/github/egret-docs/Wing/update/update323/index.html)  
 - [wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
 - [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
 - [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
 - [腾讯云 - 小程序配置指引、升级方案](https://github.com/tencentyun/weapp-doc)  
-
-
-
-## 一些限制
-这些限制导致现在的小程序功能不全、体验不佳、没有维护运营。 [链接](http://9.cn/news/501)
-- 不开放线上流量，导致很多开发者撤出
-- 体积受限1M以内，很多App只能做裁剪版
-- 开放的API太少，很多原生功能无法实现
-- 界面UI被框死，无法与原生一致
-- 不能方便安装到手机桌面
-- 开发和运维工作只能单独一条线为微信服务，投资大回报不佳
-
-## 如何打开小程序
-- 微信小程序无法分享到朋友圈，甚至无法通过长按二维码进入，也就是说，即使你在一个网页或一篇订阅号的文章里放上小程序的二维码，用户还是无法长按打开小程序。  
-- 用户只能通过：线下扫码、搜索、朋友分享来打开小程序。  
-- 微信人为地限制了小程序的线上导流，通过主动搜索进入，量显然不会特别大，朋友之间的分享，扩散的速度也有限，可以说，微信在逼迫开发者尝试线下的导流渠道。
-
-## 最新消息
-- [2016-12-29 更新] 微信小程序将于 2017-1-9 正式上线 [链接](https://mp.weixin.qq.com/s?__biz=MjM5NTE4Njc4NQ==&mid=2657611912&idx=1&sn=f91c228764f9a3b4ed696276fae1ee1b&chksm=bd6f01868a188890c72c32e3082f2bc36d7f79efab345a9a58595a4a19c9fa39f522e9981b2d&mpshare=1&scene=1&srcid=1228p6Hph7jd2lUOkbCGL7x6&key=564c3e9811aee0ab29c2072d6a92477a8d62ef0e5fe510df5d0ad41c92368cae49761c048dff4fe55f719d3c57afc1710797e0a290516f8f860e49c4ee3a25d3300f54e11fb682ebd3fa99faaedbc661&ascene=0&uin=MTk0MTE1NDU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=%2F7fUB762zG7R6Di%2FQtIMesFlLkcdP9nx1gv2wrmlrq0%3D)
 
 ## 实际例子
 - 实体店购物：我们在线上购物的时候，不仅关注价格，也关注产品的评价，作为购买的依据。而传统的线下商品是看不到评价的和无法互动的，但是有了小程序二维码，可以扫码打开小程序，看到购买过该商品的人的评价、衣服珠宝类穿在身上的照片，有利于线下销售。另外也可以引导到店客户，结合线上做活动，为商品做促销传播，比如拼团等。
@@ -100,25 +80,6 @@
 - 比如一家餐厅利用小程序制作一个菜单，用户抵达餐厅，扫一扫，点菜，付款完事，对于一家餐厅来说，在各种方面均可以降低成本提升效率，用户也获得了便利。[链接](http://www.woshipm.com/it/573821.html)
 - 或者说我们到了一个商场逛一个品牌（或者是超市购物），衣服上再也不需要条码，取而代之的是二维码，我们在一家店内看中一件衣服，只需扫一扫衣服上的二维码便可以进入衣服的详情页（暂且忽略小程序的制作成本），不仅可以看到尺码信息，模特图，还可以看到用户评论，中意的话最后完成购买结算，整个流程貌似更加顺畅，同时解决了线下购物的一些痛点。[链接](http://www.woshipm.com/it/573821.html)
 - 2017年1月1号的时候，去上海迪士尼玩了一圈，通过知乎网友的帮助，提前下了迪士尼的官方App，可以查看电子导览图，排队时间等，特别方便，貌似国内的其它游乐场没有提供这项便捷服务。但是一天游玩结束后就把App删了，看上去好浪费。如果全中国的旅游景点，或者游乐场所都开发类似的小程序？我觉得是可行的。毕竟是对用户来说是低频刚需，但是对园区来说，小程序成本更低，再加上用户方的低频需求乘以一个非常大的基数便会是一个非常可观的效应，或许再结合一下VR和AR技术，还可以有更多的可能性。
-
-## 观点
-- 小程序主推线下场景，除了带着腾讯「连接一切」的目的，其实也迎合了挖掘线下流量的趋势。[链接](https://kenengba.com/post/3538.html)
-- 跟小程序比较般配的包括电商类、生活服务类、工具类、O2O、自媒体和企业级应用。[链接](http://www.cwechat.org/article-24-1.html)
-- 整体看来，中小型企业、020服务类、线下门店、个人创业者等，均可背靠微信这颗大树在未来发家致富！[链接](http://www.wxapp-union.com/portal.php?mod=view&aid=659)
-- 张小龙对小程序的定位明显是一个「工具型」的产品，如何建立最短路径然后帮助用户直达产品功能就是一个「好的工具」。从在这一点上来看，目前已经上架的「滴滴出行」小程序就是一个最好的范例，打开小程序就能直接获取用户当前位置作为起点，然后用户输入终点之后就能开始呼叫用车，一气呵成。 [链接](https://gold.xitu.io/post/5875df0561ff4b005c5c1db5?utm_source=gold_browser_extension)
-- 从外部看到的信息来看，微信似乎更偏向于连接线下。[链接](https://kenengba.com/post/3538.html)
-
-## 文章
-- [提交小程序时需要注意什么？这三点你都必须知道](http://9.cn/news/290)
-- [你好，我是小程序！官方公开课解说小程序开放](http://www.wxapp-union.com/article-1039-1.html)
-- [2016微信数据报告发布](http://mp.weixin.qq.com/s/7FnrGvlN__iww57e91d0Ig)
-- [微信小程序常见问题集合](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=23)
-- [野狗 SDK (微信小程序版) 正式发布](https://blog.wilddog.com/?p=1926)  
-- [微信小程序：开发之前要知道的三件事](http://www.wxapp-union.com/portal.php?mod=view&aid=417)  
-- [产品和运营自学小程序最好用的4个方法](http://www.wxapp-union.com/portal.php?mod=view&aid=414)  
-- [微信小程序新手跳坑指南21条](http://www.wxapp-union.com/portal.php?mod=view&aid=663)  
-- [微信小程序应用前景剖析](http://www.wxapp-union.com/portal.php?mod=view&aid=629)  
-- [极欧杨勇：你的产品到底适不适合微信小程序？](http://www.wxapp-union.com/portal.php?mod=view&aid=609)  
 
 ## GitHub
 - [微信小程序入坑指南](https://github.com/wxdev/app-guide)
