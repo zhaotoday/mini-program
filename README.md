@@ -3,18 +3,18 @@
 ## 1. 介绍
 
 ### 1.1. 小程序是什么
-- 定义：小程序是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
-- 特点：无需安装、触手可及、用完即走、无需卸载。
 
-### 1.2. 英文名称
-mini program（注：应用、App 之类的词被苹果公司和谐。）
+- 定义：小程序是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验；
+- 特点：无需安装、触手可及、用完即走、无需卸载；
+- 英文：mini program。（注：应用、App 之类的词被苹果公司和谐）
 
-### 1.3. 有趣的比喻
+### 1.2. 有趣的比喻
+
 - App 就像原配，一年用不了几次；
 - 服务号就像小三，每个月固定用几次；
 - 小程序就像炮友，用完即走。
 
-### 1.4. 运行环境
+### 1.3. 运行环境
 
 | 运行环境	      | 逻辑层	       | 渲染层         |
 | --- | --- | --- |
@@ -32,11 +32,12 @@ mini program（注：应用、App 之类的词被苹果公司和谐。）
 - [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
 
 ### 2.2 推荐网站
+- [第九程序](http://9.cn)
 - [微信小程序联盟](http://www.wxapp-union.com/)
 - [微信小程序开发资源精选网址导航](http://www.yimijili.com/xcxwzdh.html)
 
 ### 2.3 小程序导航网站
-- [小程序商店](http://9.cn/)
+- [小程序商店](http://xcx.9.cn)
 - [小程序商店](http://www.91ud.com/)
 - [小程序窝](http://www.xcxwo.com/)
 - [微信小程序导航](http://www.w3cschool.cn/miniapp)
@@ -44,9 +45,7 @@ mini program（注：应用、App 之类的词被苹果公司和谐。）
 - [知晓程序](https://minapp.com/miniapp/)
 - [微信小程序大全](http://www.duba.com/wxapp/)
 - [小程序商店](http://www.xcx.la/)
-- [最小程序](http://zuixiaochengxu.com/)
 - [小程序商店](http://www.xcxsdw.com/)
-- [91 小程序应用商店](http://www.saas-store.cn/wechat/)
 
 ## 一些限制
 这些限制导致现在的小程序功能不全、体验不佳、没有维护运营。 [链接](http://9.cn/news/501)
