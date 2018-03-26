@@ -6,12 +6,15 @@
 - 定义：小程序是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
 - 特点：无需安装、触手可及、用完即走、无需卸载。
 
-### 1.2. 有趣的比喻
+### 1.2. 英文名称
+mini program（注：应用、App 之类的词被苹果公司和谐。）
+
+### 1.3. 有趣的比喻
 - App 就像原配，一年用不了几次；
 - 服务号就像小三，每个月固定用几次；
 - 小程序就像炮友，用完即走。
 
-### 1.3. 运行环境
+### 1.4. 运行环境
 
 | 运行环境	      | 逻辑层	       | 渲染层         |
 | --- | --- | --- |
@@ -19,26 +22,20 @@
 | 安卓	          | X5 JSCore	   | X5浏览器       |
 | 小程序开发者工具 | NWJS	       | Chrome WebView |
 
-## 官网入口
+## 2. 网址
+
+### 2.1. 官网入口
+
 - [微信公众平台](https://mp.weixin.qq.com/)  
 - [微信小程序简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
+- [微信小程序开发者社区](https://developers.weixin.qq.com/)
 - [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
 
-## 推荐网站
-- [微信小程序联盟](http://www.wxapp-union.com/)  
-- [微信小程序社区](http://www.cwechat.org/)  
+### 2.2 推荐网站
+- [微信小程序联盟](http://www.wxapp-union.com/)
 - [微信小程序开发资源精选网址导航](http://www.yimijili.com/xcxwzdh.html)
-- [91 有趣](http://www.91youqu.com/)
 
-## 英文名称
-应用、app 之类的词被苹果公司和谐，小程序正式英文名称为：mini program，以下包含开发者常用的小程序英文名称。
-- mini program：官方正式名称
-- weapp：目测是 wechat app 的简写
-- wechat app：微信应用的英文
-- wxapp：目测是 weixin app 的简写
-- mina：目测是 mini app 的简写
-
-## 小程序导航网站
+### 2.3 小程序导航网站
 - [小程序商店](http://9.cn/)
 - [小程序商店](http://www.91ud.com/)
 - [小程序窝](http://www.xcxwo.com/)
