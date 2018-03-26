@@ -24,19 +24,22 @@
 
 ## 2. 网址
 
-### 2.1. 官网入口
+### 2.1. 官网
 
 - [微信公众平台](https://mp.weixin.qq.com/)  
 - [微信小程序简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
 - [微信小程序开发者社区](https://developers.weixin.qq.com/)
 - [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
+- [微信小程序常见 Q&A 官方](https://developers.weixin.qq.com/blogdetail?action=get_post_info&lang=zh_CN&token=&docid=0008ec49d849681c05866d9a957008)
 
-### 2.2 推荐网站
+### 2.2. 推荐网站
+
 - [第九程序](http://9.cn)
 - [微信小程序联盟](http://www.wxapp-union.com/)
 - [微信小程序开发资源精选网址导航](http://www.yimijili.com/xcxwzdh.html)
 
-### 2.3 小程序导航网站
+### 2.3. 小程序导航
+
 - [小程序商店](http://xcx.9.cn)
 - [小程序商店](http://www.91ud.com/)
 - [小程序窝](http://www.xcxwo.com/)
@@ -46,6 +49,25 @@
 - [微信小程序大全](http://www.duba.com/wxapp/)
 - [小程序商店](http://www.xcx.la/)
 - [小程序商店](http://www.xcxsdw.com/)
+
+## 3. 开发资源
+
+### 3.1. 框架
+
+- [WePY](https://github.com/Tencent/wepy)
+- [mpvue](https://github.com/Meituan-Dianping/mpvue)
+- [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)
+- [Wafer - 企业级微信小程序全栈方案](https://github.com/tencentyun/wafer)  
+
+## 3.2 工具
+
+- [Egret Wing - 支持微信小程序实时预览的IDE](http://developer.egret.com/cn/github/egret-docs/Wing/update/update323/index.html)  
+- [wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
+- [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
+- [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
+- [腾讯云 - 小程序配置指引、升级方案](https://github.com/tencentyun/weapp-doc)  
+
+
 
 ## 一些限制
 这些限制导致现在的小程序功能不全、体验不佳、没有维护运营。 [链接](http://9.cn/news/501)
@@ -78,19 +100,6 @@
 - 比如一家餐厅利用小程序制作一个菜单，用户抵达餐厅，扫一扫，点菜，付款完事，对于一家餐厅来说，在各种方面均可以降低成本提升效率，用户也获得了便利。[链接](http://www.woshipm.com/it/573821.html)
 - 或者说我们到了一个商场逛一个品牌（或者是超市购物），衣服上再也不需要条码，取而代之的是二维码，我们在一家店内看中一件衣服，只需扫一扫衣服上的二维码便可以进入衣服的详情页（暂且忽略小程序的制作成本），不仅可以看到尺码信息，模特图，还可以看到用户评论，中意的话最后完成购买结算，整个流程貌似更加顺畅，同时解决了线下购物的一些痛点。[链接](http://www.woshipm.com/it/573821.html)
 - 2017年1月1号的时候，去上海迪士尼玩了一圈，通过知乎网友的帮助，提前下了迪士尼的官方App，可以查看电子导览图，排队时间等，特别方便，貌似国内的其它游乐场没有提供这项便捷服务。但是一天游玩结束后就把App删了，看上去好浪费。如果全中国的旅游景点，或者游乐场所都开发类似的小程序？我觉得是可行的。毕竟是对用户来说是低频刚需，但是对园区来说，小程序成本更低，再加上用户方的低频需求乘以一个非常大的基数便会是一个非常可观的效应，或许再结合一下VR和AR技术，还可以有更多的可能性。
-
-## 框架
-- [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)  
-- [Labrador - 微信小程序模块化开发框架](https://github.com/maichong/labrador)  
-- [wepy](https://github.com/wepyjs/wepy)  
-- [Wafer - 企业级微信小程序全栈方案](https://github.com/tencentyun/wafer)  
-
-## 工具
-- [Egret Wing - 支持微信小程序实时预览的IDE](http://developer.egret.com/cn/github/egret-docs/Wing/update/update323/index.html)  
-- [wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
-- [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
-- [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
-- [腾讯云 - 小程序配置指引、升级方案](https://github.com/tencentyun/weapp-doc)  
 
 ## 观点
 - 小程序主推线下场景，除了带着腾讯「连接一切」的目的，其实也迎合了挖掘线下流量的趋势。[链接](https://kenengba.com/post/3538.html)
