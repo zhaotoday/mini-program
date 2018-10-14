@@ -22,9 +22,9 @@
 | 安卓	          | X5 JSCore	   | X5浏览器       |
 | 小程序开发者工具 | NWJS	       | Chrome WebView |
 
-## 2. 网址
+## 网址
 
-### 2.1. 官网
+#### 官方材料
 
 - [微信公众平台](https://mp.weixin.qq.com/)  
 - [微信小程序简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
@@ -32,13 +32,13 @@
 - [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
 - [微信小程序常见 Q&A 官方](https://developers.weixin.qq.com/blogdetail?action=get_post_info&lang=zh_CN&token=&docid=0008ec49d849681c05866d9a957008)
 
-### 2.2. 推荐网站
+#### 推荐网站
 
 - [第九程序](http://9.cn)
 - [微信小程序联盟](http://www.wxapp-union.com/)
 - [微信小程序开发资源精选网址导航](http://www.yimijili.com/xcxwzdh.html)
 
-### 2.3. 小程序导航
+#### 小程序导航
 
 - [小程序商店](http://xcx.9.cn)
 - [小程序商店](http://www.91ud.com/)
@@ -50,26 +50,22 @@
 - [小程序商店](http://www.xcx.la/)
 - [小程序商店](http://www.xcxsdw.com/)
 
-## 3. 开发资源
+## 开发资源
 
-### 3.1. 框架
+#### 框架
 
-- [WePY](https://github.com/Tencent/wepy)
 - [mpvue](https://github.com/Meituan-Dianping/mpvue)
+- [WePY](https://github.com/Tencent/wepy)
 - [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)
 - [Wafer - 企业级微信小程序全栈方案](https://github.com/tencentyun/wafer)  
 
-### 3.2. 工具
+#### 工具
 
 - [wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
 - [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
 - [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
 - [腾讯云 - 小程序配置指引、升级方案](https://github.com/tencentyun/weapp-doc)  
 
-### 3.3. GitHub
+#### GitHub
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - [微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
-
-### 3.4. 视频教程
-
-...
