@@ -29,14 +29,15 @@
 - [微信公众平台](https://mp.weixin.qq.com/)  
 - [微信小程序简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
 - [微信小程序开发者社区](https://developers.weixin.qq.com/)
-- [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
 - [微信小程序常见 Q&A 官方](https://developers.weixin.qq.com/blogdetail?action=get_post_info&lang=zh_CN&token=&docid=0008ec49d849681c05866d9a957008)
+- [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
+- [微信小程序开发助手](https://developers.weixin.qq.com/miniprogram/dev/devtools/mydev.html)
+- [小程序·云开发解决方案](https://cloud.tencent.com/solution/la)
 
 #### 推荐网站
 
 - [第九程序](http://9.cn)
 - [微信小程序联盟](http://www.wxapp-union.com/)
-- [微信小程序开发资源精选网址导航](http://www.yimijili.com/xcxwzdh.html)
 
 #### 小程序导航
 
@@ -48,7 +49,6 @@
 - [知晓程序](https://minapp.com/miniapp/)
 - [微信小程序大全](http://www.duba.com/wxapp/)
 - [小程序商店](http://www.xcx.la/)
-- [小程序商店](http://www.xcxsdw.com/)
 
 ## 开发资源
 
@@ -59,13 +59,22 @@
 - [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)
 - [Wafer - 企业级微信小程序全栈方案](https://github.com/tencentyun/wafer)  
 
+#### UI 库
+
+- []
+- [Vant Weapp](https://youzan.github.io/vant-weapp/#/intro)
+
 #### 工具
 
-- [wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
 - [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
 - [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
 - [腾讯云 - 小程序配置指引、升级方案](https://github.com/tencentyun/weapp-doc)  
 
 #### GitHub
+
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - [微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
+
+#### 文章
+
+- [微信小程序之生成图片分享](https://www.jianshu.com/p/ceb42fe76e77)
