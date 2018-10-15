@@ -61,8 +61,10 @@
 
 #### UI 库
 
-- []
 - [Vant Weapp](https://youzan.github.io/vant-weapp/#/intro)
+- [iView Weapp](https://weapp.iviewui.com)
+- [Wux Weapp](https://wux-weapp.github.io/wux-weapp-docs/#/)
+- [MinUI](https://meili.github.io/min/docs/minui/index.html)
 
 #### 工具
 
@@ -74,6 +76,7 @@
 
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - [微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
+- [mpvue中无缝接入Vant Weapp组件库](https://github.com/xxxsimons/mpvue-vant)
 
 #### 文章
 
