@@ -1,5 +1,3 @@
-项目名：微信小程序资料收集，Git 仓库地址：https://github.com/zhaotoday/mini-program 。
-
 ## 介绍
 
 #### 小程序是什么
