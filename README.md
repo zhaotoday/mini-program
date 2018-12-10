@@ -57,8 +57,7 @@
 - [WePY](https://github.com/Tencent/wepy)
 - [Taro](https://github.com/NervJS/taro-ui)
 - [uni-app](https://github.com/dcloudio/uni-app)
-- [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)
-- [Wafer - 企业级微信小程序全栈方案](https://github.com/tencentyun/wafer)  
+- [Wafer](https://github.com/tencentyun/wafer)  
 
 #### UI 库
 
@@ -66,6 +65,7 @@
 - [iView Weapp](https://weapp.iviewui.com)
 - [Wux Weapp](https://wux-weapp.github.io/wux-weapp-docs/#/)
 - [MinUI](https://meili.github.io/min/docs/minui/index.html)
+- [weui-wxss](https://github.com/weui/weui-wxss)
 
 #### 工具
 
