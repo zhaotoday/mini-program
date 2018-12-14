@@ -31,7 +31,7 @@
 - [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
 - [微信小程序开发助手](https://developers.weixin.qq.com/miniprogram/dev/devtools/mydev.html)
 - [小程序·云开发解决方案](https://cloud.tencent.com/solution/la)
-- [小程序微信登录能力调整官](https://developers.weixin.qq.com/community/develop/doc/0006026b3c83c0e244573a0025bc08)
+- [小程序微信登录能力调整](https://developers.weixin.qq.com/community/develop/doc/0006026b3c83c0e244573a0025bc08)
 - [常见拒绝情形](https://developers.weixin.qq.com/miniprogram/product/reject.html)
 
 #### 推荐网站
