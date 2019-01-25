@@ -41,7 +41,7 @@
 - [第九程序](http://9.cn)
 - [微信小程序联盟](http://www.wxapp-union.com/)
 
-#### 小程序导航
+#### 导航
 
 - [小程序商店](http://xcx.9.cn)
 - [小程序商店](http://www.91ud.com/)
