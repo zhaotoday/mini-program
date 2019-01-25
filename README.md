@@ -33,6 +33,8 @@
 - [小程序·云开发解决方案](https://cloud.tencent.com/solution/la)
 - [小程序微信登录能力调整](https://developers.weixin.qq.com/community/develop/doc/0006026b3c83c0e244573a0025bc08)
 - [常见拒绝情形](https://developers.weixin.qq.com/miniprogram/product/reject.html)
+- [微信小程序设计指南](https://developers.weixin.qq.com/miniprogram/design/)
+- [微信开放社区](https://developers.weixin.qq.com/)
 
 #### 推荐网站
 
@@ -67,6 +69,7 @@
 - [Wux Weapp](https://wux-weapp.github.io/wux-weapp-docs/#/)
 - [MinUI](https://meili.github.io/min/docs/minui/index.html)
 - [weui-wxss](https://github.com/weui/weui-wxss)
+- [Color UI](https://github.com/weilanwl/ColorUI)
 
 #### 工具
 
